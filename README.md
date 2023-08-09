@@ -1,7 +1,7 @@
 To access app.js you will need to access it throught static/js/:
 
 ## Interactive Dashboard
-<br>To access the interatice dashboard, click on index.html
+<br>To access the interatice dashboard got to: https://dav5t.github.io/belly-button-challenge/<br>
 <br>You can acess information on subject IDs belly button biodiversity by clicking on the dropdown menu under **Test Subject ID No:** and watch all the chart, and demographic information change accordingly 
 
 ### References:
