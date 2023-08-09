@@ -2,7 +2,7 @@ To access app.js you will need to access it throught static/js/:
 
 ## Interactive Dashboard
 <br>To access the interatice dashboard, click on index.html
-<br>You can acess information on subject IDs belly button biodiversity by clicking on the dropdown menu under **Test Subject ID No:** and watch all the graphs, and demographic change accordingly 
+<br>You can acess information on subject IDs belly button biodiversity by clicking on the dropdown menu under **Test Subject ID No:** and watch all the chart, and demographic information change accordingly 
 
 ### References:
 <br>*1. Calculating/Adjusting the Needle in Gauge Chart (Plotly JS)*
