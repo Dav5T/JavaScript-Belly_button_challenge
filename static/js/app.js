@@ -123,7 +123,7 @@ function gauge (ids){
         }
 
         // This shifts the arrow based on the wfreq
-        if (frequency ==0){
+        if (frequency ==0 || frequency == null){
             theta = 180
             console.log(theta)
         }  
