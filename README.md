@@ -1,7 +1,9 @@
 To access app.js you will need to access it throught static/js/:
 
 ## Interactive Dashboard
-<br>To access the interactive dashboard go to: https://dav5t.github.io/belly-button-challenge/<br>
+This interactive dashboard explores the biodiversity dataset, which catalogs the microbes that colonizes human belly buttons. The dataset reveals that a small handful of microbal species (OTU - Operational Taxonomic Units) were present in more than 70% of people while the rest were relatively rare. 
+
+<br>To access the interactive dashboard go to: https://dav5t.github.io/JavaScript-Belly_button_challenge/<br>
 <br>You can acess information on subject IDs belly button biodiversity by clicking on the dropdown menu under **Test Subject ID No:** and watch all the chart, and demographic information change accordingly 
 
 ### References:
