@@ -34,7 +34,9 @@ function graphs(ids){
         };
         let layout ={
             height: 500,
-            width: 600
+            width: 600,
+            title: {text: "<b>Top 10 Bacteria Cultures Found"},
+            xaxis:{title:"Number of Bacteria"}
 
         }
         let data = [trace1];
@@ -58,6 +60,10 @@ function graphs(ids){
 
         let layout2 ={
             xaxis:{title:"OTU ID"},
+            yaxis:{title: "Number of Bacteria"},
+            title:{text:"<b>Bacteria Cultures Per Sample", 
+                font:{size:24},
+            },
             height: 500,
             width: window.width
 
